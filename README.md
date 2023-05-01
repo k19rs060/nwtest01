@@ -8,8 +8,6 @@
 - four
 - five
 - six
-- seven
-- nine
 
 ## test 02
 
